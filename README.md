@@ -16,11 +16,20 @@ The official site of airdb is [airdb Homepage](https://www.airdb.com).
 
 My blog or wiki is [here](https://airdb-wiki.github.io).
 
-Join our [airdb slack](https://airdb-com.slack.com/) :)
+Join our airdb slack [https://airdb-com.slack.com](https://airdb-com.slack.com/) :)
 
 ## Research Fields?
-  - ...
+  - 7 Layer Load Balance
+  - Traffic Scheduling with large scale
+  - Hacking on Github
+  - CI/CD
+  - IaaS: OS and Docker
   
+## Projects
+
+- [studygolang](https://airdb-wiki.github.io/studygolang) 
+- [bbhj](https://airdb-wiki.github.io/bbhj) 
+
 ## Skills
 
 ### Programming
