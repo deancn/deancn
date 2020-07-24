@@ -8,7 +8,8 @@ dean dean@airdb.com
 ![DeanCN Github Stats](https://github-readme-stats.vercel.app/api?username=deancn&show_icons=true)
 
 
-## Who am I?
+## Who am I
+
 I am an developer who not like coding.
 Creator of [airdb](https://github.com/airdb). 
 
@@ -18,7 +19,7 @@ My blog or wiki is [here](https://airdb-wiki.github.io).
 
 Join our airdb slack [https://airdb-com.slack.com](https://airdb-com.slack.com/) :)
 
-## Research Fields?
+## Research Fields
   - 7 Layer Load Balance
   - Traffic Scheduling with large scale
   - Hacking on Github
@@ -33,8 +34,6 @@ Join our airdb slack [https://airdb-com.slack.com](https://airdb-com.slack.com/)
 ## Skills
 
 ### Programming
-
-
 
 Remark:
  - ![01](https://s1.ax1x.com/2020/07/22/U74gZ6.png) : Use daily.
