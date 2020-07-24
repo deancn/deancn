@@ -10,11 +10,11 @@ dean dean@airdb.com
 
 ## Who am I?
 I am an developer who not like coding.
-Creator of [airdb](https://github.com/airdb)
+Creator of [airdb](https://github.com/airdb). 
 
-[airdb Homepage](https://www.airdb.com)
+The official site of airdb is [airdb Homepage](https://www.airdb.com).
 
-[Wiki](https://airdb-wiki.gitub.io)
+My blog or wiki is [here](https://airdb-wiki.github.io).
 
 ## Research Fields?
   - ...
