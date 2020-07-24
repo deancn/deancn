@@ -16,6 +16,8 @@ The official site of airdb is [airdb Homepage](https://www.airdb.com).
 
 My blog or wiki is [here](https://airdb-wiki.github.io).
 
+Join our [airdb slack](https://airdb-com.slack.com/) :)
+
 ## Research Fields?
   - ...
   
