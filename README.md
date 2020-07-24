@@ -40,3 +40,6 @@ Remark:
  - ![02](https://s1.ax1x.com/2020/07/22/U746qx.png) : Use frequently.
  - ![03](https://s1.ax1x.com/2020/07/22/U74ys1.png) : Use occasionally .
  - ![04](https://s1.ax1x.com/2020/07/22/U74sMR.png) : Haven't used it for a long time.
+
+
+[![asciicast](https://asciinema.org/a/349438.svg)](https://asciinema.org/a/349438)
