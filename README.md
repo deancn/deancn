@@ -1,7 +1,6 @@
 
 <div align="center"><img src="https://scf.baobeihuijia.com/release/svg/aboutme?" /></div>
 
-dean dean@airdb.com
 
 ## Overview
 
