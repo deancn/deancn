@@ -41,7 +41,7 @@ Remark:
  - ![04](https://s1.ax1x.com/2020/07/22/U74sMR.png) : Haven't used it for a long time.
 
 
-[![asciicast](https://asciinema.org/a/349488.svg)](https://asciinema.org/a/349488?autoplay=1)
+![Hello](./hello.gif)
 
 ```bash
 asciinema play https://asciinema.org/a/349488
