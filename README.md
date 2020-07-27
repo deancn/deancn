@@ -41,7 +41,7 @@ Remark:
  - ![04](https://s1.ax1x.com/2020/07/22/U74sMR.png) : Haven't used it for a long time.
 
 
-![Hello](./hello.gif)
+![Hello](https://www.airdb.com/images/hello.gif)
 
 ```bash
 asciinema play https://asciinema.org/a/349488
