@@ -12,11 +12,14 @@
 I am an developer who not like coding.
 Creator of [airdb](https://github.com/airdb). 
 
-The official site of airdb is [airdb Homepage](https://www.airdb.com).
+- 🔭 I’m currently working on my project [airdb](https://github.com/airdb)
+- 🌱 I’m currently learning Golang & Vue.
+- 👯 The official site of airdb is [airdb Homepage](https://www.airdb.com)
+- 📘 My blog or wiki is [here](https://airdb-wiki.github.io)
+- 💬 Join our airdb slack [here](https://airdb-com.slack.com/)
+
 
 My blog or wiki is [here](https://airdb-wiki.github.io).
-
-Join our airdb slack [https://airdb-com.slack.com](https://airdb-com.slack.com/) :)
 
 ## Research Fields
   - 7 Layer Load Balance
