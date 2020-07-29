@@ -9,7 +9,7 @@
 
 ## Who am I
 
-I am an developer who not like coding.
+I am a developer who not like coding.
 Creator of [airdb](https://github.com/airdb). 
 
 - 🔭 I’m currently working on my project [airdb](https://github.com/airdb)
@@ -25,8 +25,9 @@ My blog or wiki is [here](https://airdb-wiki.github.io).
   - 7 Layer Load Balance
   - Traffic Scheduling with large scale
   - Hacking on Github
-  - CI/CD
+  - CI/CD, Montoring System
   - IaaS: OS and Docker
+  - API Gateway + Serverless
   
 ## Projects
 
