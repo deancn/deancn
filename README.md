@@ -37,6 +37,9 @@ My blog or wiki is [here](https://airdb-wiki.github.io).
 ## Skills
 
 ### Programming
+| ![Vuejs](https://s1.ax1x.com/2020/07/22/U7hkn0.png) | ![Electron](https://s1.ax1x.com/2020/07/22/U7h9pj.png) | 
+| :-: | :-: |
+ [VueJS](https://cn.vuejs.org/) | [Electron](http://www.electronjs.org/) | 
 
 Remark:
  - ![01](https://s1.ax1x.com/2020/07/22/U74gZ6.png) : Use daily.
