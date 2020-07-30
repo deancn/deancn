@@ -10,6 +10,7 @@
 ## Who am I
 
 I am a developer who not like coding.
+
 Creator of [airdb](https://github.com/airdb). 
 
 - 🔭 I’m currently working on my project [airdb](https://github.com/airdb)
@@ -18,8 +19,6 @@ Creator of [airdb](https://github.com/airdb).
 - 📘 My blog or wiki is [here](https://airdb-wiki.github.io)
 - 💬 Join our airdb slack [here](https://airdb-com.slack.com/)
 
-
-My blog or wiki is [here](https://airdb-wiki.github.io).
 
 ## Research Fields
   - 7 Layer Load Balance
