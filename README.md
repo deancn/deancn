@@ -9,9 +9,7 @@
 
 ## Who am I
 
-I am a developer who not like coding.
-
-Creator of [airdb](https://github.com/airdb). 
+I am a developer who not like coding, creator of [airdb](https://github.com/airdb). 
 
 - 🔭 I’m currently working on my project [airdb](https://github.com/airdb)
 - 🌱 I’m currently learning Golang & Vue.
