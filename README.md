@@ -34,10 +34,9 @@ I am a developer who not like coding, creator of [airdb](https://github.com/aird
 ## Skills
 
 ### Programming
- <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="vuejs" width="64" height="64" align="bottom" />  | 
- <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="64" height="64" align="bottom" /> |
+| <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="vuejs" width="64" height="64" align="bottom" />  |   <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="64" height="64" align="bottom" /> |
 | :-: | :-: |
-[Golang](https://golang.org) |  [VueJS](https://cn.vuejs.org/) | 
+| [Golang](https://golang.org) |  [VueJS](https://cn.vuejs.org/) | 
 
 Remark:
  - ![01](https://s1.ax1x.com/2020/07/22/U74gZ6.png) : Use daily.
