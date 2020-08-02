@@ -9,7 +9,7 @@
 
 ## Who am I
 
-I am a developer who not like coding, creator of [airdb](https://github.com/airdb). <br>Sponsor airdb.com <img width="32" height="32" class="octicon rounded-1 d-block" alt="open_collective" src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/open_collective.svg"> ![Sponsor airdb.com](https://opencollective.com/airdb)
+I am a developer who not like coding, creator of [airdb](https://github.com/airdb). <br><img width="32" height="32" class="octicon rounded-1 d-block" alt="open_collective" src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/open_collective.svg"> [Sponsor airdb.com](https://opencollective.com/airdb)
 
 
 - 🔭 I’m currently working on my project [airdb](https://github.com/airdb)
