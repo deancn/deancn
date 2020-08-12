@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://scf.baobeihuijia.com/release/svg/aboutme" /></div>
+<div align="center"><img src="https://scf.baobeihuijia.com/release/svg/aboutme?" /></div>
 
 
 ## Overview
