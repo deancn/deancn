@@ -1,10 +1,10 @@
 
-<div align="center"><img src="https://scf.baobeihuijia.com/release/svg/aboutme?" /></div>
+<div align="center"><img src="https://scf.baobeihuijia.com/release/svg/aboutme" /></div>
 
 
 ## Overview
 
-![DeanCN Github Stats](https://github-readme-stats.vercel.app/api?username=deancn&show_icons=true)
+![DeanCN Github Stats](https://scf.baobeihuijia.com/release/svg/github)
 
 
 ## Who am I
