@@ -4,7 +4,7 @@
 
 ## Overview
 
-![DeanCN Github Stats](https://scf.baobeihuijia.com/release/svg/github)
+<img src="https://github-profile-trophy.vercel.app/?username=deancn&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 
 ## Who am I
