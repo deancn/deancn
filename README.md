@@ -14,7 +14,7 @@ I am a developer who not like coding.<br>Creator of [airdb](https://github.com/a
 
 - 🔭 I’m currently working on my project [airdb](https://github.com/airdb)
 - 🌱 I’m currently learning Golang & Vue.
-- 👯 The official site of airdb is [airdb Homepage](https://www.airdb.com)
+- 👯 The official site of airdb is [airdb Homepage](https://airdb.github.io/)
 - 📘 My blog or wiki is [here](https://airdb-wiki.github.io)
 - 💬 Join our airdb slack [here](https://airdb-com.slack.com/)
 - 💤 My Github Lab courses will be [here](https://lab.github.com/airdb)
