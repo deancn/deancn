@@ -1,11 +1,9 @@
 
-<div align="center"><img src="https://scf.baobeihuijia.com/release/svg/aboutme?" /></div>
-
-
 ## Overview
 
-<img src="https://github-profile-trophy.vercel.app/?username=deancn&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
-
+Name: Dean
+Email: dean@airdb.com
+Wechat: `echo eGFpcmRiCg== | base64 -d`
 
 ## Who am I
 
