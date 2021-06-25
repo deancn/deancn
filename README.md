@@ -10,7 +10,7 @@ Wechat: `echo eGFpcmRiCg== | base64 -d`
 
 ## Who am I
 
-I am a developer who not like coding.<br>Creator of [airdb](https://github.com/airdb), <img width="16" height="16" class="octicon rounded-1 d-block" alt="open_collective" src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/open_collective.svg"> [Sponsor airdb.com](https://opencollective.com/airdb)
+I am a developer who not like coding.<br>Creator of [airdb](https://github.com/airdb), [Sponsor airdb.com](https://github.com/sponsors/airdb)
 
 
 - 🔭 I’m currently working on my project [airdb](https://github.com/airdb)
