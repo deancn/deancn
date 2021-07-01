@@ -47,9 +47,10 @@ Remark:
  - ![04](https://s1.ax1x.com/2020/07/22/U74sMR.png) : Haven't used it for a long time.
 
 
-![Hello](https://www.airdb.com/images/hello.gif)
+## sponsor
 
-```bash
-asciinema play https://asciinema.org/a/349488
-```
+Scan QR code using wechat.
 
+![Buy me a tea](https://raw.githubusercontent.com/airdb-wiki/images/main/t1.jpg)
+
+😘😝💝🎀 
