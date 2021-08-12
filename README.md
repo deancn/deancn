@@ -1,3 +1,6 @@
+Hey there, 
+
+Welcome to Dean's home.  Follow me first if not yet!! :)
 
 ## Overview
 
@@ -19,6 +22,7 @@ I am a developer who not like coding.<br>Creator of [airdb](https://github.com/a
 - 📘 My blog or wiki is [here](https://airdb-wiki.github.io)
 - 💬 Join our airdb slack [here](https://airdb-com.slack.com/)
 - 💤 My Github Lab courses will be [here](https://lab.github.com/airdb)
+- 💤 Feishu Docs is [here](https://q7sl7e2ae9.feishu.cn/)
 
 ## Research Fields
   - 7 Layer Load Balance
@@ -27,6 +31,8 @@ I am a developer who not like coding.<br>Creator of [airdb](https://github.com/a
   - CI/CD, Montoring System
   - IaaS: OS and Docker
   - API Gateway + Serverless
+  - Anti Fraud
+
   
 ## Projects
 
