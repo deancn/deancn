@@ -22,7 +22,7 @@ I am a developer who not like coding.<br>Creator of [airdb](https://github.com/a
 - 📘 My blog or wiki is [here](https://airdb-wiki.github.io)
 - 💬 Join our airdb slack [here](https://airdb-com.slack.com/)
 - 💤 My Github Lab courses will be [here](https://lab.github.com/airdb)
-- 💤 Feishu Docs is [here](https://q7sl7e2ae9.feishu.cn/)
+- 💤 Feishu Docs is [here](https://q7sl7e2ae9.feishu.cn/wiki/)
 
 ## Research Fields
   - 7 Layer Load Balance
