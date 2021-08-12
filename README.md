@@ -1,6 +1,6 @@
 Hey there, 
 
-Welcome to Dean's home.  Follow me first if not yet!! :)
+Welcome to my github pages.  Follow me first if not yet!! :)
 
 ## Overview
 
