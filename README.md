@@ -8,7 +8,7 @@ Name: Dean
 <br>
 Email: dean@airdb.com
 <br>
-Wechat: `echo eGFpcmRiCg== | base64 -d`
+Wechat: xairdb
 
 
 ## Who am I
