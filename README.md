@@ -55,7 +55,7 @@ Remark:
  - ![04](https://s1.ax1x.com/2020/07/22/U74sMR.png) : Haven't used it for a long time.
 
 
-## Pponsor & Donate
+## Sponsor & Donate
 
 1. [Sponsor airdb](https://github.com/sponsors/airdb)
 
