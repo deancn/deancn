@@ -9,6 +9,8 @@ Name: Dean
 Email: dean@airdb.com
 <br>
 Wechat: xairdb
+<br>
+Wechat Customer Service:  [leave me message via wechat](https://work.weixin.qq.com/kfid/kfc522563fedb50004c)
 
 
 ## Who am I
