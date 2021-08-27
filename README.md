@@ -15,7 +15,7 @@ Wechat Customer Service:  [leave me message via wechat](https://work.weixin.qq.c
 
 ## Who am I
 
-I am a developer who not like coding.<br>Creator of [airdb](https://github.com/airdb), [Sponsor airdb.com](https://github.com/sponsors/airdb)
+I am a developer who not like coding.<br>Creator of [airdb](https://github.com/airdb), 
 
 
 - 🔭 I’m currently working on my project [airdb](https://github.com/airdb)
@@ -55,9 +55,11 @@ Remark:
  - ![04](https://s1.ax1x.com/2020/07/22/U74sMR.png) : Haven't used it for a long time.
 
 
-## sponsor
+## Pponsor & Donate
 
-Scan QR code using wechat.
+1. [Sponsor airdb](https://github.com/sponsors/airdb)
+
+2. Or Scan QR code using wechat.
 
 ![Buy me a tea](https://raw.githubusercontent.com/airdb-wiki/images/main/t1.jpg)
 
