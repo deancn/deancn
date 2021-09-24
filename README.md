@@ -15,7 +15,8 @@ Wechat Customer Service:  [leave me message via wechat](https://work.weixin.qq.c
 
 ## Who am I
 
-I am a developer who not like coding.<br>Creator of [airdb](https://github.com/airdb), 
+I am a developer who not like coding, also I am a NGO organizer.
+<br>Creator of [airdb](https://github.com/airdb), 
 
 
 - 🔭 I’m currently working on my project [airdb](https://github.com/airdb)
@@ -27,13 +28,13 @@ I am a developer who not like coding.<br>Creator of [airdb](https://github.com/a
 - 💤 Feishu Docs is [here](https://q7sl7e2ae9.feishu.cn/wiki/)
 
 ## Research Fields
-  - 7 Layer Load Balance
   - Traffic Scheduling with large scale
   - Hacking on Github
   - CI/CD, Montoring System
   - IaaS: OS and Docker
-  - API Gateway + Serverless
+  - Gateway + Serverless, include DNS, 7 Layer Load Balance + API management
   - Anti Fraud
+  - Performance Engineering (APM)
 
   
 ## Projects
@@ -55,7 +56,7 @@ Remark:
  - ![04](https://s1.ax1x.com/2020/07/22/U74sMR.png) : Haven't used it for a long time.
 
 
-## Sponsor & Donate
+## Sponsor & Donate Our Team
 
 1. [Sponsor airdb](https://github.com/sponsors/airdb)
 
