@@ -8,7 +8,7 @@ Name: Dean
 <br>
 Email: dean@airdb.com
 <br>
-Wecaht: [Leave me a Message](https://wechat-1251018873.file.myqcloud.com/dean/wework_card.JPG)
+Wecaht: [Leave me a Message](https://wechat-1251018873.file.myqcloud.com/dean/wework_card.jpg)
 <br>
 
 
