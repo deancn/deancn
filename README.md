@@ -8,16 +8,14 @@ Name: Dean
 <br>
 Email: dean@airdb.com
 <br>
-Wechat: xairdb
+Wecaht: [Leave me a Message](https://wechat-1251018873.file.myqcloud.com/dean/wework_card.JPG)
 <br>
-Wechat Customer Service:  [leave me message via wechat](https://work.weixin.qq.com/kfid/kfc522563fedb50004c)
 
 
 ## Who am I
 
 I am a developer who not like coding, also I am a NGO organizer.
 <br>Creator of [airdb](https://github.com/airdb), 
-
 
 - 🔭 I’m currently working on my project [airdb](https://github.com/airdb)
 - 🌱 I’m currently learning Golang & Vue.
@@ -39,15 +37,16 @@ I am a developer who not like coding, also I am a NGO organizer.
   
 ## Projects
 
-- [studygolang](https://airdb-wiki.github.io/studygolang) 
+- [airdb](https://airdb.github.io/) 
 - [bbhj](https://airdb-wiki.github.io/bbhj) 
+- [studygolang](https://airdb-wiki.github.io/studygolang) 
 
 ## Skills
 
 ### Programming
-| <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="vuejs" width="64" height="64" align="bottom" />  |   <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="64" height="64" align="bottom" /> |  <img src="https://www.terraform.io/assets/images/mega-nav/logo-terraform-ff69eaae.svg" alt="vuejs" width="64" height="64" align="bottom" /> | <img src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="docker" width="64" height="64" align="bottom" /> |
-| :-: | :-: | :-: | :-: |
-| [Golang](https://golang.org) |  [VueJS](https://cn.vuejs.org/) |  [Terraform](https://www.terraform.io/)  | [Docker](https://www.docker.com/)  |
+| <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="vuejs" width="64" height="64" align="bottom" /> | <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="64" height="64" align="bottom" /> | <img src="https://www.terraform.io/assets/images/mega-nav/logo-terraform-ff69eaae.svg" alt="vuejs" width="64" height="64" align="bottom" /> | <img src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="docker" width="64" height="64" align="bottom" /> |
+| :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                             [Golang](https://golang.org)                                             |                                  [VueJS](https://cn.vuejs.org/)                                   |                                                   [Terraform](https://www.terraform.io/)                                                    |                                                                 [Docker](https://www.docker.com/)                                                                 |
 
 Remark:
  - ![01](https://s1.ax1x.com/2020/07/22/U74gZ6.png) : Use daily.
@@ -56,6 +55,10 @@ Remark:
  - ![04](https://s1.ax1x.com/2020/07/22/U74sMR.png) : Haven't used it for a long time.
 
 
+## Links
+- [dev.to](https://dev.to/airdb)
+
+😘😝💝🎀 
 ## Sponsor & Donate Our Team
 
 1. [Sponsor airdb](https://github.com/sponsors/airdb)
@@ -64,4 +67,3 @@ Remark:
 
 ![Buy me a tea](https://raw.githubusercontent.com/airdb-wiki/images/main/t1.jpg)
 
-😘😝💝🎀 
