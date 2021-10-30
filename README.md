@@ -2,7 +2,7 @@
 
 ## Hey there 👋,
 
-Welcome to my github pages.  Follow me first if not yet!! :)
+Welcome to my github pages. Thanks for you follow me!! :)
 
 ## Overview
 
