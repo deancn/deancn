@@ -1,4 +1,3 @@
-<a href="https://airdb.github.io"><img width="240" align="right" src="https://wechat-1251018873.file.myqcloud.com/dean/aws-lambda.jpeg"></a>
 
 ## Hey there 👋,
 
@@ -12,6 +11,11 @@ Email: dean@airdb.com
 <br>
 Wecaht: [Leave me a Message](https://wechat-1251018873.file.myqcloud.com/dean/wework_card.jpg)
 <br>
+
+😘😝💝🎀 
+## Sponsor & Donate Our Team
+
+1. [Sponsor airdb](https://github.com/sponsors/airdb)
 
 
 ## Who am I
@@ -54,12 +58,8 @@ Remark:
 ## Links
 - [dev.to](https://dev.to/airdb)
 
-😘😝💝🎀 
-## Sponsor & Donate Our Team
+<a href="https://airdb.github.io"><img width="240" align="right" src="https://wechat-1251018873.file.myqcloud.com/dean/aws-lambda.jpeg"></a>
 
-1. [Sponsor airdb](https://github.com/sponsors/airdb)
 
-2. Or Scan QR code using wechat.
 
-![Buy me a tea](https://raw.githubusercontent.com/airdb-wiki/images/main/t1.jpg)
 
