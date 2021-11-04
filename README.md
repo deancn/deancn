@@ -1,21 +1,18 @@
+<a href="https://airdb.github.io"><img width="240" align="right" src="imgs/qrcode_do_good_thing.png"></a>
 
 ## Hey there 👋,
 
 Welcome to my github pages. Thanks for you follow me!! :)
 
+Leave me a Message by scanning the QR Code.
+
 ## Overview
 
-Name: Dean
+Name: Dean CN, 🇨🇳
 <br>
 Email: dean@airdb.com
 <br>
-Wecaht: [Leave me a Message](https://wechat-1251018873.file.myqcloud.com/dean/wework_card.jpg)
-<br>
-
-😘😝💝🎀 
-## Sponsor & Donate Our Team
-
-1. [Sponsor airdb](https://github.com/sponsors/airdb)
+Sponsor & Donate Our Team [Sponsor airdb 😘😝💝🎀](https://github.com/sponsors/airdb)
 
 
 ## Who am I
@@ -27,9 +24,6 @@ I am a developer who not like coding, also I am a NGO organizer.
 - 🌱 I’m currently learning Golang & Vue.
 - 👯 The official site of airdb is [airdb Homepage](https://airdb.github.io/)
 - 📘 My blog or wiki is [here](https://airdb-wiki.github.io)
-- 💬 Join our airdb slack [here](https://airdb-com.slack.com/)
-- 💤 My Github Lab courses will be [here](https://lab.github.com/airdb)
-- 💤 Feishu Docs is [here](https://q7sl7e2ae9.feishu.cn/wiki/)
 
 ## Research Fields
   - Traffic Scheduling with large scale
@@ -55,11 +49,11 @@ Remark:
  - ![04](https://s1.ax1x.com/2020/07/22/U74sMR.png) : Haven't used it for a long time.
 
 
+<a href="https://airdb.github.io"><img width="240" align="right" src="imgs/aws-lambda.jpeg"></a>
+
 ## Links
-- [dev.to](https://dev.to/airdb)
-
-<a href="https://airdb.github.io"><img width="240" align="right" src="https://wechat-1251018873.file.myqcloud.com/dean/aws-lambda.jpeg"></a>
-
-
-
+- [https://dev.to](https://dev.to/airdb)
+- [💤 Feishu Docs](https://q7sl7e2ae9.feishu.cn/wiki/)
+- [💬 airdb slack](https://airdb-com.slack.com/)
+- [💤 Github Lab courses will be here](https://lab.github.com/airdb)
 
