@@ -36,12 +36,6 @@ I am a developer who not like coding, also I am a NGO organizer.
   - Anti Fraud
   - Performance Engineering (APM)
 
-  
-## Projects
-
-- [airdb](https://airdb.github.io/) 
-- [bbhj](https://airdb-wiki.github.io/bbhj) 
-- [studygolang](https://airdb-wiki.github.io/studygolang) 
 
 ## Skills
 
