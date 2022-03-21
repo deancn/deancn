@@ -41,8 +41,6 @@ I am a developer who not like coding, also I am a NGO organizer.
 
 ## Skills
 
-### Programming                                                 
-
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,grafana,jenkins,nginx,nodejs,vscode,c,vue,go,lua,svg&perline=5)](https://skillicons.dev)
 
 
