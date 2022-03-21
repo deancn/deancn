@@ -2,7 +2,7 @@
 
 ## Hey there 👋,
 
-Welcome to my github pages. ![visitors](https://visitor-badge.glitch.me/badge?page_id=deancn.deancn)
+Welcome to my github pages.
 
 Thanks for you follow me!! :)
 
