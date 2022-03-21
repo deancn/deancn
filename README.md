@@ -46,7 +46,7 @@ I am a developer who not like coding, also I am a NGO organizer.
   </a>
 </p>                                                           
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,bash,vim,git,kubernetes,jenkins,nginx,nodejs,vscode,c,vue,go,lua,ai&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,bash,vim,git,kubernetes,jenkins,nginx,nodejs,vscode,c,vue,go,lua,ai&perline=5)](https://skillicons.dev)
 
 
 Remark:
