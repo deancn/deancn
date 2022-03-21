@@ -39,14 +39,9 @@ I am a developer who not like coding, also I am a NGO organizer.
 
 ## Skills
 
-### Programming
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>                                                           
+### Programming                                                 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,bash,vim,git,kubernetes,jenkins,nginx,nodejs,vscode,c,vue,go,lua,svg&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,bash,vim,git,kubernetes,docker,jenkins,nginx,nodejs,vscode,c,vue,go,lua,svg&perline=5)](https://skillicons.dev)
 
 
 Remark:
