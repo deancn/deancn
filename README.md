@@ -6,7 +6,9 @@ Welcome to my github pages. ![visitors](https://visitor-badge.glitch.me/badge?pa
 
 Thanks for you follow me!! :)
 
-Leave me a Message by scanning the QR Code.
+
+Leave me a Message by scanning the QR Code via Wechat.
+
 
 ## Overview
 
