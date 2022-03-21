@@ -44,7 +44,10 @@ I am a developer who not like coding, also I am a NGO organizer.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
-</p>                                                           |
+</p>                                                           
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 Remark:
  - ![01](https://s1.ax1x.com/2020/07/22/U74gZ6.png) : Use daily.
