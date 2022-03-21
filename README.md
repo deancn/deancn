@@ -40,9 +40,11 @@ I am a developer who not like coding, also I am a NGO organizer.
 ## Skills
 
 ### Programming
-| <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="vuejs" width="64" height="64" align="bottom" /> | <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="64" height="64" align="bottom" /> | <img src="https://www.terraform.io/assets/images/mega-nav/logo-terraform-ff69eaae.svg" alt="vuejs" width="64" height="64" align="bottom" /> | <img src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="docker" width="64" height="64" align="bottom" /> |
-| :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Golang](https://golang.org)                                             |                                  [VueJS](https://cn.vuejs.org/)                                   |                                                   [Terraform](https://www.terraform.io/)                                                    |                                                                 [Docker](https://www.docker.com/)                                                                 |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>                                                           |
 
 Remark:
  - ![01](https://s1.ax1x.com/2020/07/22/U74gZ6.png) : Use daily.
