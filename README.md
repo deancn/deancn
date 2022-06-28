@@ -2,17 +2,17 @@
 
 ## Hey there 👋,
 
-Welcome to my github pages. Thanks for you follow me!! :)
-
-[What's airdb?](https://github.com/airdb) and [wiki](https://airdb.wiki)
-
-Leave me a Message by scanning the QR Code via Wechat.
-
-## Overview
+Welcome to my github pages, And thanks for you follow me!! :)
 
 Name: Dean CN, 🇨🇳
 Email: dean@airdb.com
 
-I am a developer who donot like coding, also I am a NPO(Non Profit Organization) organizer.
+I am a developer who is using github more than 10 years, also I am a NPO(Non Profit Organization) organizer.
 
-Welcome to sponsor & donate the Team [airdb 😘😝💝🎀](https://github.com/sponsors/airdb)
+## What's the Airdb?
+
+Airdb is a Github Organization, and you can check the repo [here](https://github.com/airdb) and [wiki](https://airdb.wiki)
+
+Leave me a Message by scanning the QR Code via Wechat.
+
+Welcome to sponsor & donate the  [airdb team😘😝💝🎀](https://github.com/sponsors/airdb)
