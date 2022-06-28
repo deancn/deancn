@@ -8,7 +8,7 @@ Email: dean@airdb.com
 
 Welcome to my github pages, And thanks for you follow me!! :)
 
-I am a developer who is using github more than 10 years, also I am a NPO(Non Profit Organization) organizer.
+I am a developer, and also worked for NPOs(Non Profit Organization) part-time.
 
 ## What's the Airdb?
 
