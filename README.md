@@ -31,7 +31,6 @@ Welcome to sponsor & donate the  [airdb team😘😝💝🎀](https://github.com
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=ffffff)](https://prometheus.io/)
 [![](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=ffffff)](https://grafana.com/)
-[![](https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=ffffff)](https://goharbor.io/)
 [![](https://img.shields.io/badge/-Linux-Fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)](https://github.com/features/actions)
