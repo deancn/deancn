@@ -6,9 +6,12 @@ Name: Dean CN, 🇨🇳
 
 Email: dean@airdb.com
 
+I am a panic-stack developer and also working for NPOs(Non Profit Organization) part-time.
+
 Welcome to my github pages, And thanks for you follow me!! :)
 
-I am a developer and also working for NPOs(Non Profit Organization) part-time.
+Join [Discord](https://discord.gg/EpjzT2U6vu), let's make a friend!!
+
 
 ## What's the Airdb?
 
