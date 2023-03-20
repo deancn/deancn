@@ -46,3 +46,4 @@ Welcome to sponsor & donate the  [airdb team😘😝💝🎀](https://github.com
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deancn/)
 ![Wechat](https://img.shields.io/badge/-xairdb-green?style=flat&logo=Wechat&logoColor=white)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/xairdb)
+[![Chat Server](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.gg/FSWXq4DmEj)
