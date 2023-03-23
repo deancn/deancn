@@ -3,16 +3,22 @@
 Name: Dean CN, 🇨🇳
 
 Email: dean@airdb.com
-
+```text
 I am a panic-stack developer and working for NPOs(Non-Profit Organization) part-time.
-
 Welcome to my github pages, And thanks for you follow me!! :)
-
 Join [Discord](https://discord.gg/EpjzT2U6vu), let's make a friend!!
+```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
+</div>
+
+
 
 
 ## What's the Airdb?
 
+```text
 Airdb is a Github Organization, and you can check the repo [here](https://github.com/airdb)
 
 https://airdb.wiki Just for reference if you are willing to code with us.
@@ -20,6 +26,7 @@ https://airdb.wiki Just for reference if you are willing to code with us.
 Leave me a Message by scanning the QR Code via Wechat.
 
 Welcome to sponsor & donate the  [airdb team😘😝💝🎀](https://github.com/sponsors/airdb)
+```
 
 ### Platform & Tools
 
