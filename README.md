@@ -28,7 +28,7 @@ Welcome to sponsor & donate the  [airdb team😘😝💝🎀](https://github.com
 ### Platform & Tools
 
 [![](https://img.shields.io/badge/mac%20os-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
-[![Linux](https://img.shields.io/badge/Linux-1793D1?logo=ubuntu-linux&logoColor=fff&style=for-the-badge)](https://github.com/torvalds/linux)
+[![Linux](https://img.shields.io/badge/Linux-1793D1?logo=linux&logoColor=fff&style=for-the-badge)](https://github.com/torvalds/linux)
 [![](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/ChatGPT-007ACC?style=for-the-badge&logo=openai&logoColor=ffffff)](https://chat.openai.com/)
 
