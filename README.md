@@ -14,11 +14,8 @@ Join [Discord](https://discord.gg/EpjzT2U6vu), let's make a friend!!
 </div>
 
 
-
-
 ## What's the Airdb?
 
-```text
 Airdb is a Github Organization, and you can check the repo [here](https://github.com/airdb)
 
 https://airdb.wiki Just for reference if you are willing to code with us.
@@ -26,7 +23,7 @@ https://airdb.wiki Just for reference if you are willing to code with us.
 Leave me a Message by scanning the QR Code via Wechat.
 
 Welcome to sponsor & donate the  [airdb team😘😝💝🎀](https://github.com/sponsors/airdb)
-```
+
 
 ### Platform & Tools
 
