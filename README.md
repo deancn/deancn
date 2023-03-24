@@ -6,7 +6,6 @@ Email: dean@airdb.com
 ```text
 I am a panic-stack developer and working for NPOs(Non-Profit Organization) part-time.
 Welcome to my github pages, And thanks for you follow me!! :)
-Join [Discord](https://discord.gg/EpjzT2U6vu), let's make a friend!!
 ```
 
 <div align="center">
@@ -24,6 +23,7 @@ Leave me a Message by scanning the QR Code via Wechat.
 
 Welcome to sponsor & donate the  [airdb team😘😝💝🎀](https://github.com/sponsors/airdb)
 
+Join [Discord](https://discord.gg/EpjzT2U6vu), and try to make contribution!!
 
 ### Platform & Tools
 
