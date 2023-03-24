@@ -15,15 +15,11 @@ Welcome to my github pages, And thanks for you follow me!! :)
 
 ## What's the Airdb?
 
-Airdb is a Github Organization, and you can check the repo [here](https://github.com/airdb)
+Airdb is a GitHub organization. You can check out github repository at https://github.com/airdb or join the [Discord](https://discord.gg/EpjzT2U6vu) server.
 
-https://airdb.wiki Just for reference if you are willing to code with us.
+If you are interested in contributing to our coding work, you can refer to their wiki at https://airdb.wiki.
 
-Leave me a Message by scanning the QR Code via Wechat.
-
-Welcome to sponsor & donate the  [airdb team😘😝💝🎀](https://github.com/sponsors/airdb)
-
-Join [Discord](https://discord.gg/EpjzT2U6vu), and try to make contribution!!
+Airdb team 😘😝💝🎀 welcomes sponsors and donations. Visit [airdb team😘😝💝🎀](https://github.com/sponsors/airdb) to support us.
 
 ### Platform & Tools
 
