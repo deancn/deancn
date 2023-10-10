@@ -1,16 +1,22 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
+</div>
+
+
 ## Hey there 👋,
 
 Name: Dean CN, 🇨🇳
 
 Email: dean@airdb.com
-```text
-I am a panic-stack developer and working for NPOs(Non-Profit Organization) part-time.
-Welcome to my github pages, And thanks for you follow me!! :)
-```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
-</div>
+
+I am a panic-stack developer and I'd like to make bugs. 
+
+Always working for NPOs(Non-Profit Organization) part-time.
+
+Welcome to my github pages, And thanks for you follow me!! :)
+
+
 
 
 ## What's the Airdb?
