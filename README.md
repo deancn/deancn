@@ -21,7 +21,7 @@ Welcome to my github pages, And thanks for you follow me!! :)
 
 ## What's the Airdb?
 
-Airdb is a GitHub organization. You can check out github repository at https://github.com/airdb or join the [Discord](https://discord.gg/EpjzT2U6vu) server.
+Airdb is a GitHub organization. You can check out github repository at https://github.com/airdb or join the [Discord](https://discord.com/invite/Mp4xttEqnF) server.
 
 If you are interested in contributing to our coding work, you can refer to their wiki at https://airdb.wiki.
 
