@@ -6,17 +6,12 @@
 ## Hey there 👋,
 
 Name: Dean CN, 🇨🇳
-
 Email: dean@airdb.com
 
-
 I am a full-stack developer, currently I am using golang,  and trying to learn about rust langugage due to the network performance.
-
-Working for NPOs(Non-Profit Organization) part-time.
+We are Working for NPOs(Non-Profit Organization) part-time.
 
 Welcome to my github pages, And thanks for you follow me!! :)
-
-
 
 
 ## What's the Airdb?
